@@ -3,6 +3,9 @@ uuid = "3cbf7d3e-808f-4706-8d10-7842e8ec0698"
 authors = ["Pengfei Song"]
 version = "0.1.0"
 
+[deps]
+Optimization = "7f7a1694-90dd-40f0-9382-eb1efda571ba"
+
 [compat]
 julia = "1.6"
 
